@@ -15,6 +15,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
-git push -f github.com/fontcao/blogs.git dev
+git push -f github.com/fontcao/blogs.git dev:dev
 
 cd -
